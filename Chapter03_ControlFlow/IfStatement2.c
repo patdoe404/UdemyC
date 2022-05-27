@@ -2,7 +2,7 @@
 
 int main()
 {
-    int age_jan = 26;
+    int age_jan = 26; // age from jan
     int age_marc = 26;
     int age_sarah = 30;
 
